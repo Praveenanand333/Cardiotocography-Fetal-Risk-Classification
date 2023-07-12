@@ -54,7 +54,7 @@ To run the code in this repository, please follow these steps:
 
 The project structure is organized as follows:
 
-- `data/`: Directory to store the dataset file (`cardiotocography.csv`).
+- `data/`: Directory to store the dataset file (`CTG.csv`).
 - `models/`: Directory to save the trained machine learning models.
 - `main.ipynb`: Jupyter Notebook file containing the main code for the project.
 - `README.md`: Project overview and instructions (you are here).
