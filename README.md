@@ -6,7 +6,7 @@ This repository contains a Python machine learning project for Cardiotocography 
 
 The dataset used for this project is sourced from Kaggle and contains various features extracted from CTG exams, including fetal heart rate (FHR) patterns and uterine contractions. The target variable is the fetal risk classification.
 
-Dataset source: [Kaggle - Cardiotocography]([https://www.kaggle.com/yourdatasetlink](https://www.kaggle.com/datasets/akshat0007/fetalhr])
+Dataset source: [Kaggle - Cardiotocography]([https://www.kaggle.com/datasets/akshat0007/fetalhr])
 
 ## Project Overview
 
