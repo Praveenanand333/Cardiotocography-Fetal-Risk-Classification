@@ -1,0 +1,40 @@
+# Ignore compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore logs and data files (specific extensions may vary)
+*.log
+*.csv
+*.tsv
+*.json
+
+# Ignore model artifacts and intermediate files
+model/
+*.pkl
+*.h5
+*.hdf5
+*.pth
+*.npz
+
+# Ignore virtual environment files (if applicable)
+venv/
+env/
+.virtualenv/
+pipfile.lock
+Pipfile.lock
+pipenv.lock
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment-specific files
+*.env
+
+# Ignore any other files and directories specific to your project
+# For example, data files that are too large or sensitive to be tracked
+# custom_data/
